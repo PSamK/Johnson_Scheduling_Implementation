@@ -70,10 +70,6 @@ The project follows these steps:
 
    **TODO**: Adjust the script to fetch the job assignments in the correct order from the database.
 
-## Repository Structure
-
-- **README.md**: This file, providing an overview and instructions for the project.
-
 ## Authors
 
 - [Martin Martuccio](https://github.com/Martin-Martuccio) - Project Author
