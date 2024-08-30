@@ -32,21 +32,21 @@ The project follows these steps:
 3. **Results Comparison**:
    - Compare the output of the Johnson algorithm with other scheduling methods.
   
-# Tools Used
+## Tools Used
 
 - **MATLAB**: For implementing the scheduling algorithm and interacting with the SQL database.
 - **Database Toolbox in MATLAB**: To connect to and interact with the SQL Server database.
 - **Microsoft SQL Server (SSMS 2023)**: To create a local database instance where the required tables are stored.
 - **SQL Scripts**: Provided to create the necessary tables and insert data.
 
-# Project Setup
+## Project Setup
 
-## Prerequisites
+### Prerequisites
 
 - **MATLAB**: Ensure MATLAB is installed along with the Database Toolbox.
 - **SQL Server Instance**: Create a local SQL Server database using SSMS 2023.
 
-## Steps to Set Up
+### Steps to Set Up
 
 1. **Modify Paths**: Update the paths in the provided MATLAB scripts to match your local environment.
 
