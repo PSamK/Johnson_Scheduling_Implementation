@@ -68,8 +68,6 @@ The project follows these steps:
 
 - **CreateGanttChart Script**: The `CreateGanttChart.m` script has a known issue where the data sorting is incorrect, leading to an inaccurate Gantt chart. The job assignments are not displayed in the correct order.
 
-   **TODO**: Adjust the script to fetch the job assignments in the correct order from the database.
-
 ## Authors
 
 - [Martin Martuccio](https://github.com/Martin-Martuccio) - Project Author
